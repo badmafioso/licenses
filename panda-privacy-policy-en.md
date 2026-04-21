@@ -2,7 +2,7 @@
 
 **Effective date:** 2026-04-21
 
-This Privacy Policy explains how the HabitTracker iOS application (the “**App**”) handles information when you use it. The App is published by an individual developer - Sergey Frolov (“**we**”, “**us**”, “**our**”).
+This Privacy Policy explains how the Habit Panda iOS application (the “**App**”) handles information when you use it. The App is published by an individual developer - Sergey Frolov (“**we**”, “**us**”, “**our**”).
 
 If you have questions, contact us at **mooscle@gmail.com**.
 
